@@ -1,0 +1,22 @@
+// Tabs 
+.tabs {
+    li {
+        overflow-y: hidden;
+    }
+    a {
+        font-size: 0.8125rem;
+        color: black !important;
+        border-bottom: 4px solid transparent;
+        transition: border-bottom-color ease 0.3s;
+        cursor: pointer !important;
+
+        &:hover{
+            border-bottom-color: transparent;
+            text-decoration: none;
+        }
+    }
+    li.is-active a {
+        border-bottom-color: $turquoise5;
+        color: black !important;
+    }
+}

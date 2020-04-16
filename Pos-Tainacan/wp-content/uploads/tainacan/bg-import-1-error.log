@@ -1,0 +1,318 @@
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 13
+ enclosure : 
+ Values string: 2;Sistemas nervosos de diferentes animais;Explorat¢rio - Centro Ciància Viva de Coimbra;Diferenáa entre os Sistemas nervosos de diferentes animais;Biologia;Modelos de cÇrebros expostos dentro de um suporte de acr°lico e um painel digital com informaá‰es sobre o conjunto;Contemplaá∆o:: leitura e seleá∆o de qual sistema nervoso pretende-se conhecer melhor;CÇrebros de Homem:: golfinho:: beija-flor:: coelho:: gato:: cachorro:: cavalo e musaranho;Objeto;MÇtrica;Concreto(3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Convencional;Sim;Painel com informaá‰es sobre o funcionamento do sistema nervoso;O painel foi colocado ao lado dos modelos dos diferentes cÇrebros e nele possui desenhos e informaá‰es sobre os mesmos:: como por exemplo explicando como e por que nos assustamos.;O sistema nervoso dos animais Ç o sistema respons†vel por captar:: armazenar e responder est°mulos externos e internos:: por coordenar o funcionamento e os movimentos de todo o organismo. Cada animal possui um sistema que melhor se adapte Ös suas necessidades e est† diretamente relacionado ao n°vel em que ocupa no est†gio da evoluá∆o.;CVV Coimbra - AM 1a:: CVV Coimbra - AM 1b:: CVV Coimbra - AM 1c.
+failed on item 0
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 34
+ enclosure : 
+ Values string: 3;DNA humano;Explorat¢rio - Centro Ciància Viva de Coimbra;C¢digo genÇtico;Biologia;Painel interativo:: desenhos da molÇcula de DNA e de seus componentes:: textos informativos e blocos representativos das bases nitrogenadas.;Contemplaá∆o:: leitura e composiá∆o do DNA selecionando as bases nitrogenadas.;MolÇcula de DNA.;Objeto;NanomÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Pict¢rica e simb¢lica;Sim;Painel com informaá‰es sobre o funcionamento do genoma.;O painel foi colocado de modo a criar uma interaá∆o com o modelo de bases nitrogenadas. A medida que o visitante ordena as bases nitrogenadas:: o painel informa se as bases formam um par e informa caracter°sticas sobre o funcionamento do DNA.;O DNA:: ou †cido desoxirribonucleico:: Ç uma molÇcula respons†vel por armazenar todas as informaá‰es genÇticas de um indiv°duo:: ou seja:: as informaá‰es transmitidas dos pais para o filho. ê composta por quatro bases nitrogenadas: citosina:: guanina:: adenina e timina:: que possuem diferentes estruturas e funá‰es.;CVV Coimbra - AM 2a:: CVV Coimbra - AM 2b:: CVV Coimbra - AM 2c:: CVV Coimbra - AM 2d:: CVV Coimbra - AM 2e:: CVV Coimbra - AM 2f:: CVV Coimbra - AM 2g:: CVV Coimbra - AM 2h:: CVV Coimbra - AM 2i:: CVV Coimbra - AM 2j:: CVV Coimbra - AM 2k:: CVV Coimbra - AM 2l:: CVV Coimbra - AM 2m:: CVV Coimbra - AM 2n:: CVV Coimbra - AM 2o:: CVV Coimbra - AM 2p:: CVV Coimbra - AM 2q:: CVV Coimbra - AM 2r:: CVV Coimbra - AM 2s:: CVV Coimbra - AM 2t:: CVV Coimbra - AM 2u:: CVV Coimbra - AM 2v:: CVV Coimbra - AM 2x.
+failed on item 1
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 4
+ enclosure : 
+ Values string: 4;Cromossomo;Explorat¢rio - Centro Ciància Viva de Coimbra;A ponta do cromossomo;Biologia;Painel com desenhos e textos informativos;Contemplaá∆o e leitura;Cromosomo;Objeto;NanomÇtrica;Visual(2D ou pseudo3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Pict¢rica;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;Cromossomos s∆o estruturas compostas de DNA:: que se condensam de modo a obterem um arranjo espacial que melhor proteja o DNA. Na ponta dos cromossomos existem os telìmeros:: respons†veis pela proteá∆o da informaá∆o genÇtica:: evitando sua degradaá∆o por enzimas.;CVV Coimbra - AM 3a.
+failed on item 2
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 4
+ enclosure : 
+ Values string: 5;Individualidade genÇtica;Explorat¢rio - Centro Ciància Viva de Coimbra;As diferenáas entre o DNA humano e de outros animais;Biologia;Painel informativo e com desenhos e representaá‰es dos diferentes genomas sobre a mesa.;Contemplaá∆o e leitura;DNA de diversas espÇcies.;Objeto;NanomÇtrica;Concreto(3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Simb¢lica;Aspecto n∆o identificado;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;O DNA:: ou †cido desoxirribonucleico:: Ç a molÇcula respons†vel por carregar as informaá‰es genÇticas de um indiv°duo. Cada espÇcie possui uma molÇcula diferente:: que se adapte ao seu organismo e Ö sua caracter°stica evolutiva.;CVV Coimbra - AM 4a.
+failed on item 3
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 2
+ enclosure : 
+ Values string: 6;Reparaá∆o Natural;Explorat¢rio - Centro Ciància Viva de Coimbra;A reparaá∆o natural de cÇlulas danificadas no organismo.;Biologia;Painel informativo.;Contemplaá∆o e leitura;DNA humano e cÇlulas respons†veis pela reparaá∆o de danos no organismo.;Objeto;NanomÇtrica;Visual(2D ou pseudo3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Pict¢rica;Aspecto n∆o identificado;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;CÇlulas do organismo humano danificadas s∆o naturalmente substitu°das. O corpo humano possui um complexo sistema de reparaá∆o do DNA:: de modo a garantir o funcionamento do organismo.;CVV Coimbra - AM 5a.
+failed on item 4
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 8
+ enclosure : 
+ Values string: 7;Sistema reprodutivo humano;Explorat¢rio - Centro Ciància Viva de Coimbra;‡rg∆os que comp‰em o sistema reprodutor humano.;Biologia;Desenhos:: textos e painel informativos:: representaá∆o em 3D dos ¢rg∆os na posiá∆o do corpo humano desenhado.;Contemplaá∆o e leitura;‡rg∆os do sistema reprodutor masculino e feminino:;Objeto;MÇtrica;Concreto(3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Convencional;Sim;Painel com informaá‰es sobre o sistema reprodutivo humano.;O painel foi colocado de modo que os visitantes possam ler e conhecer melhor o sistema reprodutor dos humanos.;O sistema reprodutivo humano Ç um conjunto de ¢rg∆os que tem por finalidade a reproduá∆o e a consequente propagaá∆o da espÇcie humana. No caso dos seres humanos:: h† dimorfismo sexual:: em que se observa uma clara diferenáa entre os ¢rg∆os femininos e masculinos.;CVV Coimbra - AM 6a:: CVV Coimbra - AM 6b:: CVV Coimbra - AM 6c:: CVV Coimbra - AM 6d.
+failed on item 5
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 5
+ enclosure : 
+ Values string: 8;Heranáa vista de perto;Explorat¢rio - Centro Ciància Viva de Coimbra;Alelos de DNA;Biologia;Painel informativo.;Contemplaá∆o e leitura;Par de alelos componentes do DNA humano;Objeto;NanomÇtrica;Visual(2D ou pseudo3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Pict¢rica;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;Alelos s∆o segmentos hom¢logos de DNA:: que contÇm a express∆o de uma determinada caracter°stica. S∆o organizados em pares:: um herdado da m∆e e outro do pai:: e podem ser denominadas dominantes ou recessivas:: que determinam como cada caracter°stica Ç manifestada no indiv°duo.;CVV Coimbra - AM 7a.
+failed on item 6
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 9
+ enclosure : 
+ Values string: 9;Transformaá‰es da puberdade;Explorat¢rio - Centro Ciància Viva de Coimbra;As transformaá‰es que ocorrem no corpo durante a puberdade;Biologia;Painel informativo.;Contemplaá∆o e leitura;Corpo humano;Objeto;MÇtrica;Visual(2D ou pseudo3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Pict¢rica;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;"O corpo humano:: durante a puberdade:: passa por diversas transformaá‰es:: comandadas pela ""explos∆o"" de hormìnios sexuais no organismo. Para os meninos:: essa fase ocorre por volta dos 9 a 14 anos:: com duraá∆o mÇdia de 4 anos:: e para as meninas:: dos 8 aos 12 anos:: com mÇdia de 3 anos.";CVV Coimbra - AM 8a.
+failed on item 7
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 5
+ enclosure : 
+ Values string: 10;Wireless Qu°mico;Explorat¢rio - Centro Ciància Viva de Coimbra;A transferància de informaá∆o do cÇrebro para outros ¢rg∆os e as diferenáas entre o cÇrebro masculino e feminino.;Biologia;Painel informativo.;Contemplaá∆o e leitura;Corpo humano com destaque a alguns ¢rg∆os;Objeto;MÇtrica;Visual(2D ou pseudo3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Pict¢rica;Aspecto n∆o identificado;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;O cÇrebro Ç respons†vel por captar e enviar informaá‰es e est°mulos a todos os ¢rg∆os do corpo humano:: alÇm disso:: de uma maneira geral:: podem se comportar diferente quando se trata de homens e mulheres:: devido ao dimorfismo sexual presente em nossa espÇcie.;CVV Coimbra - AM 9a.
+failed on item 8
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 6
+ enclosure : 
+ Values string: 11;A natureza Ç quiral;Explorat¢rio - Centro Ciància Viva de Coimbra;A quiralidade de molÇculas.;Biologia:: qu°mica;Painel informativo.;Contemplaá∆o e leitura;MolÇculas qu°micas que possuem quiralidade;Objeto;NanomÇtrica;Visual(2D ou pseudo3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Anal¢gica;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;Algumas molÇculas existentes na natureza possuem quiralidade:: ou seja:: possui uma imagem especular e n∆o pode ser sobreposta uma a outra:: assim como o par de m∆os direita e esquerda. O par de molÇculas quirais s∆o chamas dextr¢giras e lev¢giras:: e s∆o completamente diferentes em suas funá‰es.;CVV Coimbra - AM 10a.
+failed on item 9
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 8
+ enclosure : 
+ Values string: 12;Frequància do ciclo respirat¢rio;Explorat¢rio - Centro Ciància Viva de Coimbra;Mecanismo da respiraá∆o humana;Biologia;Painel informativo:: bal‰es que se enchem e esvaziam de ar assim como os pulm‰es.;Contemplaá∆o e leitura;Pulm‰es humanos e a respiraá∆o.;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Simulaá∆o;Sim;Painel com informaá‰es sobre o funcionamento do sistema respirat¢rio;O painel foi colocado ao lado do modelo de modo a trazer informaá‰es sobre a frequància do ciclo respirat¢rio.;ê nos pulm‰es humanos que ocorre as trocas gasosas entre o ambiente e o sangue:: oxigenando o sangue e eliminando di¢xido de carbono. Em cada fase da vida:: possu°mos um ciclo respirat¢rio diferente:: relacionado Ö capacidade de ciclos por minutos que somos capazes de realizar;CVV Coimbra - AM 11a:: CVV Coimbra - AM 11b:: CVV Coimbra - AM 11c:: CVV Coimbra - AM 11d.
+failed on item 10
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 8
+ enclosure : 
+ Values string: 13;Hemoglobina;Explorat¢rio - Centro Ciància Viva de Coimbra;Hemoglobina;Biologia;Painel informativo:: fitas que representam as prote°nas constituintes:: e esferas que representam os elementos constiuintes.;Contemplaá∆o e leitura;A molÇcula de hemoglobina e o grupo hemo.;Objeto;NanomÇtrica;Concreto(3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Convencional;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;A hemoglobina Ç uma prote°na presente no organismo que Ç respons†vel pelo transporte de oxigànio no sangue. ê composta de oxigànio:: carbono e possui o ferro como †tomo central:: respons†vel pela cor avermelhada do sangue. Se organiza espacialmente na forma de fitas.;CVV Coimbra - AM 12a:: CVV Coimbra - AM 12b:: CVV Coimbra - AM 12c:: CVV Coimbra - AM 12d.
+failed on item 11
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 9
+ enclosure : 
+ Values string: 14;O caminho da comida no sistema digest¢rio;Explorat¢rio - Centro Ciància Viva de Coimbra;O sistema digest¢rio humano;Biologia;Painel informativo:: representaá∆o dos ¢rg∆os componentes do sistema digest¢rio humano e painel com luzes que indicam o caminho que a comida e outros componentes percorrem durante a digest∆o;Contemplaá∆o e leitura;Sistema digest¢rio humano e o processo de digest∆o;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Convencional e simulaá∆o;Sim;Painel com informaá‰es sobre o funcionamento do sistema digest¢rio;O painel foi colocado ao lado dos modelos dos diferentes cÇrebros e nele possui informaá‰es sobre o sistema digest¢rio e o processo de digest∆o;O sistema digest¢rio humano Ç composto de diversos ¢rg∆os quem tem por objetivo aproveitar os nutrientes ingeridos pelo indiv°duo e excretar o que n∆o Ç £til no organismo. A comida segue um caminho dentro do organismo:: passando por faringe:: esìfago:: estìmago e intestinos:: e possui outros ¢rg∆os que secretam substÉncias auxiliares no processo de digest∆o.;CVV Coimbra - AM 13a:: CVV Coimbra - AM 13b:: CVV Coimbra - AM 13c:: CVV Coimbra - AM 13d.
+failed on item 12
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 8
+ enclosure : 
+ Values string: 15;Intestino Delgado;Explorat¢rio - Centro Ciància Viva de Coimbra;O tamanho do intestino delgado e sua acomodaá∆o no corpo humano;Biologia;Painel informativo:: desenho de um indiv°duo com o intestino em destaque.;Contemplaá∆o:: leitura e possibilidade de pegar no modelo de intestino delgado para ter conhecimento do seu tamanho.;Intestinos Delgado e grosso;Objeto;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Convencional;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;O intestino delgado:: componente do sistema digest¢rio humano:: possui cerca de sete metros e meio:: porÇm:: devido Ö suas dobras:: ocupa um espaáo bem menor no corpo humano.;CVV Coimbra - AM 14a.
+failed on item 13
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 13
+ enclosure : 
+ Values string: 16;Enzimas e sistema digest¢rio;Explorat¢rio - Centro Ciància Viva de Coimbra;Modelo chave-fechadura das enzimas;Biologia;Painel informativo:: representaá∆o de componentes do sistema digest¢rio e chaves que representam enzimas e sua atuaá∆o no organismo.;Escolha das chaves (enzimas) e ligaá∆o das mesmas Ö uma fechadura (substrato):: visualizando o papel das mesmas.;Enzimas e sistema (simplificado) digest¢rio humano.;Objeto & Processo;NanomÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Anal¢gica;Sim;Painel informativo;O painel foi colocado ao lado do modelo de modo a trazer informaá‰es sobre a digest∆o e o papel das enzimas nesse processo.;Um modo de se representar a interaá∆o entre uma enzima e um substrato Ç o modelo chave-fechadura:: em que se descreve que para cada enzima:: h† um substrato espec°fico:: tal qual uma chave e uma fechadura. Hoje:: essa interaá∆o j† foi substitu°da pela teoria do encaixe induzido:: porÇm:: ainda Ç muito £til na compreens∆o das ligaá‰es enzima-substrato.;CVV Coimbra - AM 15a:: CVV Coimbra - AM 15b:: CVV Coimbra - AM 15c:: CVV Coimbra - AM 15d:: CVV Coimbra - AM 15e.
+failed on item 14
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 6
+ enclosure : 
+ Values string: 17;Rins;Explorat¢rio - Centro Ciància Viva de Coimbra;A filtragem do sangue pelo rins;Biologia;Painel informativo:: desenho de um rim:: representaá∆o do sistema de filtragem do sangue com dutos.;Contemplaá∆o e leitura;Rins e o processo de filtragem do sangue;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Pict¢rica:: simulaá∆o;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;Os rins s∆o componentes do sistema excretor humano e possuem a funá∆o de filtrar o sangue do organismo.;CVV Coimbra - AM 16a:: CVV Coimbra - AM 16b:: CVV Coimbra - AM 16c.
+failed on item 15
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 16
+ enclosure : 
+ Values string: 18;Sistemas circulat¢rios de diferentes animais;Explorat¢rio - Centro Ciància Viva de Coimbra;Sistema circulat¢rio e as diferenáas entre os animais.;Biologia;Painel informativo:: representaá‰es de diferentes animais e coraá‰es:: dispositivo que simula a frequància card°aca;Contemplaá∆o:: leitura e escolha de qual animal (ser humano:: coelho ou elefante) se deseja ver a frequància card°aca.;Coraá‰es de diversos animais (peixes:: anf°bios:: rÇpteis:: aves e mam°feros:: exemplificado por seres humanos:: coelhos e elefantes) );Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Pict¢rica:: simulaá∆o;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;O coraá∆o Ç o principal ¢rg∆o do sistema respirat¢rio:: e cada classe de animais possuem diferenáas entre si. Cada animal possui tambÇm uma frequància respirat¢ria diferente:: que depende de diverso fatores:: como tamanho da espÇcie:: por exemplo.;CVV Coimbra - AM 17a:: CVV Coimbra - AM 17b.
+failed on item 16
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 14
+ enclosure : 
+ Values string: 19;Veias e ArtÇrias;Explorat¢rio - Centro Ciància Viva de Coimbra;Sistema circulat¢rio e as diferenáas entre veias e artÇrias;Biologia;Painel informativo e desenhos que representam o caminho percorrido por sangue oxigenado e n∆o oxigenado;"Contemplaá∆o:: leitura e abertura de uma ""torneira"" para dar in°cio Ö vaz∆o de l°quido";Sistema circulat¢rio:: com ànfase nas veias e artÇrias:: e o caminho percorrido pelo sangue;Objeto & Processo;MÇtrica;Visual(2D ou pseudo3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Convencional e simulaá∆o;Sim;Painel informativo;O painel foi colocado ao lado do modelo de modo a trazer informaá‰es sobre a circulaá∆o do sangue no organismo;O sistema circulat¢rio Ç composto por veia:: respons†veis pela circulaá∆o de sangue n∆o oxigenado:: e artÇrias:: respons†vel pela circulaá∆o de sangue oxigenado:: e possuem diferentes velocidades de circulaá∆o:: dependentes da †rea da seá∆o reta do canal.;CVV Coimbra - AM 18a:: CVV Coimbra - AM 18b:: CVV Coimbra - AM 18c:: CVV Coimbra - AM 18d:: CVV Coimbra - AM 18e:: CVV Coimbra - AM 18f.
+failed on item 17
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 3
+ enclosure : 
+ Values string: 20;ArtÇrias e a distribuiá∆o sangu°nea;Explorat¢rio - Centro Ciància Viva de Coimbra;ArtÇrias;Biologia;Painel informativo com desenhos representando artÇrias;Contemplaá∆o e leitura;ArtÇrias;Objeto;MÇtrica;Visual(2D ou pseudo3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Pict¢rica;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;As artÇrias s∆o os vasos sangu°neos respons†veis que carregam sangue oxigenado do coraá∆o Ös partes do corpo. Essa distribuiá∆o pode ser afetada pela presenáa de gordura nas paredes das artÇrias:: que dificultam a circulaá∆o sangu°nea.;CVV Coimbra - AM 20a:: CVV Coimbra - AM 20b.
+failed on item 18
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 12
+ enclosure : 
+ Values string: 21;Velocidade de fluidos;Explorat¢rio - Centro Ciància Viva de Coimbra;A velocidade de diferentes fluidos e sua relaá∆o com a viscosidade;Biologia;Painel informativo:: tubos contendo diferentes fluidos no seu interior.;Contemplaá∆o e leitura;Vasos sangu°neos;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Convencional;Sim;Painel informativo;O painel foi colocado ao lado dos tubos com diferentes fluidos (†gua:: sangue e glicerina) de modo a explicar ao visitante o motivo de cada fluido possuir uma velocidade diferente.;O sangue circula no organismo humano Ö uma velocidade pr¢pria:: que difere de outros fluidos:: como a †gua e a glicerina:: por exemplo. Essa diferenáa nas velocidades pode ser explicada pela diferenáa na viscosidade:: uma caracter°stica inerente ao fluido:: e que tem por definiá∆o a resistància ao fluxo.;CVV Coimbra - AM 21a:: CVV Coimbra - AM 21b:: CVV Coimbra - AM 21c:: CVV Coimbra - AM 21d:: CVV Coimbra - AM 21e.
+failed on item 19
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 3
+ enclosure : 
+ Values string: 22;Batimentos card°acos;Explorat¢rio - Centro Ciància Viva de Coimbra;A frequància dos batimentos card°acos;Biologia;Painel informativo.;Contemplaá∆o e leitura;O coraá∆o humano e os batimentos card°acos;Objeto & Processo;MÇtrica;Visual(2D ou pseudo3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Pict¢rica;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;O coraá∆o humano bate Ö uma determinada frequància card°aca:: determinada pelo bombeamento interno de sangue:: e possui os movimentos de s°stole (esvaziamento dos ventr°culos) e di†stole (enchimento dos ventr°culos). Essa frequància pode variar dependendo das emoá‰es em que o indiv°duo sente.;CVV Coimbra - AM 22a.
+failed on item 20
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 7
+ enclosure : 
+ Values string: 23;Os m£sculos como alavancas naturais;Explorat¢rio - Centro Ciància Viva de Coimbra;O funcionamento dos m£sculos;Biologia;Painel informativo:: modelo de um parte do esqueleto humano (braáo) apoiado em uma alavanca e segurando uma bola.;Contemplaá∆o:: leitura e acionamento da alavanca;Esqueleto de um braáo humano associado com o movimento de m£sculos;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Anal¢gica:: rÇplica.;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;Os m£sculos s∆o respons†veis pelo movimento do nosso organismo:: devido aos movimentos de contraá∆o e relaxamento. Ao se contra°rem:: exercem uma foráa nos ossos que funcionam como alavancas.;CVV Coimbra - AM 23a:: CVV Coimbra - AM 23b.
+failed on item 21
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 2
+ enclosure : 
+ Values string: 24;Pr¢teses humanas;Explorat¢rio - Centro Ciància Viva de Coimbra;As pr¢teses para substituiá∆o de ossos humanos;Biologia;Modelo de um corpo humano com algumas partes do corpo em destaque - regi‰es onde a substituiá∆o de ossos por pr¢teses Ç mais comum.;Contemplaá∆o e leitura;Ossos e pr¢teses;Objeto;MÇtrica;Concreto(3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;RÇplica;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;Alguns ossos do organismo humano est∆o mais suscept°veis Ö quebra e falha ao longo da vida devido Ö doenáas como artrite e artrose. Felizmente:: recursos como a aplicaá∆o de pr¢teses para substituiá∆o dos mesmos tàm se tornado cada vez mais comum e acess°vel.;CVV Coimbra - AM 24a.
+failed on item 22
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 4
+ enclosure : 
+ Values string: 25;Exerc°cios f°sicos e a regeneraá∆o de cÇlulas;Explorat¢rio - Centro Ciància Viva de Coimbra;Exerc°cios f°sicos e a regeneraá∆o de cÇlulas;Biologia;Painel informativo e modelo de um esqueetlo humano;Contemplaá∆o e leitura;Esqueleto humano;Objeto;MÇtrica;Concreto(3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;RÇplica;Aspecto n∆o identificado;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;A realizaá∆o de exerc°cios f°sicos estimula a regeneraá∆o de cÇlulas do corpo humano:: gerando uma sÇrie de benef°cios:: como flexibilidade:: e protegendo as articulaá‰es de desgaste.;CVV Coimbra - AM 25a.
+failed on item 23
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 8
+ enclosure : 
+ Values string: 26;Sistema nervoso autìnomo;Explorat¢rio - Centro Ciància Viva de Coimbra;O sistema nervoso autìnomo e ¢rg∆os comandados pelo memso;Biologia;Painel informativo e modelo do sistema nervoso interligados Ö alguns ¢rg∆os que obedecem seus comando.;Contemplaá∆o:: leitura e acionamento de qual ¢rg∆o deseja-se ver funcionar.;¢rg∆os do sistema nervoso autìnomo e ¢rg∆os comandados por estes.;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Convencional:: simulaá∆o.;Sim;Painel informativo;O painel foi colocado de modo que os visitantes possam ler e conhecer melhor sobre o sistema nervoso autìnomo;O sistema nervoso autìnomo Ç a parte do sistema nervoso respons†vel pelo controle dos movimentos involunt†rios do organismo:: como os batimentos card°acos:: a respiraá∆o:: o piscar de olhos:: entre outros.;CVV Coimbra - AM 26a:: CVV Coimbra - AM 26b.
+failed on item 24
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 9
+ enclosure : 
+ Values string: 27;Atos reflexos;Explorat¢rio - Centro Ciància Viva de Coimbra;Atos reflexos inatos e adquiridos.;Biologia;Painel informativo:: modelo de um corpo humano:: com destaque ao cÇrebro e coluna vertebral.;Contemplaá∆o e leitura;CÇrebro:: coluna vertebral e os atos reflexos;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Convencional;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;Os atos reflexos s∆o respostas autom†ticas do organismo Ö um est°mulo externo. Podem ser inatos (nascem com o indiv°duo):: como bocejar:: tossir ao engasgar:: espirrar:: ou adquiridos:: como pisar no freio de um carro durante uma situaá∆o de perigo.;CVV Coimbra - AM 27a.
+failed on item 25
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 2
+ enclosure : 
+ Values string: 28;BactÇrias benÇficas e pat¢genas;Centro Ciància Viva de Sintra;BactÇrias benÇficas e pat¢genas para o organismo humano;Biologia;Painel com o desenho de um corpo humano e bactÇrias;Contemplaá∆o e leitura;BactÇrias e corpo humano;Objeto;MicromÇtrica;Visual(2D ou pseudo3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Pict¢rica;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;Os seres humanos est∆o expostos Ö milhares de bactÇrias a todo o tempo. Essas bactÇrias podem ser benÇficas para o organismo e ajudar no funcionamento das funá‰es metab¢licas ou podem ser pat¢genas e causar doenáas ao seres humanos.;CVV Sintra AM 2a:: CVV Sintra AM 2b.
+failed on item 26
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 3
+ enclosure : 
+ Values string: 29;"LibÇlula ""Anax Imperator""";Centro Ciància Viva de Sintra;"LibÇlula ""Anax Imperator""";Biologia;Modelo de uma libÇlula suspenso;Contemplaá∆o.;"LibÇlula ""Anax Imperator""";Objeto;MÇtrica;Concreto(3D);Modelo est†tico;Ornamental;Convencional;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;A libÇlula Ç um animal invertebrado:: pertencente a classe dos insetos.;CVV Sintra AM 3a:: CVV Sintra AM 3b.
+failed on item 27
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 2
+ enclosure : 
+ Values string: 30;Foguete Espacial;Planet†rio Calouste Gulbenkian;Foguete;Astronomia;Modelo de foguete e partes de um foguete expostos em um painel transparente;Contemplaá∆o;Foguete espacial;Objeto;MÇtrica;Concreto(3D);Modelo est†tico;Ornamental;Convencional;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;Foguetes espaciais s∆o utilizados em miss‰es aeroespaciais e ganharam foráa durante a Corrida Espacial:: na Guerra Fria (1947 - 1991) em que Estados Unidos e a antiga Uni∆o SoviÇtica disputavam poder como potàncias mundiais.;CVV Plan Lisboa - AM 1a
+failed on item 28
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 9
+ enclosure : 
+ Values string: 31;Sistema Solar;Planet†rio Calouste Gulbenkian;O Sistema Solar;Astronomia;Exposiá∆o de modelos de planetas do sistema solar e cartolinas afixadas com informaá‰es sobre os mesmos;Contemplaá∆o e leitura;Planetas do Sistema Solar;Objeto;MegamÇtrica;Concreto(3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Convencional:: pict¢rica;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;O Sistema Solar Ç composto por um conjunto de planetas que giram em torno do sol atra°dos pelo seu campo gravitacional. Os planetas que comp‰em esse sistema s∆o: Merc£rio:: Vànus:: Terra:: Marte:: J£piter:: Saturno:: Urano e Netuno.;CVV Plan Lisboa - AM 2a:: CVV Plan Lisboa - AM 2b.
+failed on item 29
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 10
+ enclosure : 
+ Values string: 32;Foguete de Hidrogànio;F†brica - Centro Ciància Viva de Aveiro;Foguete de hidrogànio e seu funcionamento;Astronomia:: qu°mica;Modelo exposto em uma bancada:: com bot‰es para acionamento da reaá∆o qu°mica similar Ö que ocorre em foguetes movidos a hidrogànio.;Contemplaá∆o e acionamento da reaá∆o.;Foguete espacial e reaá∆o que ocorre para funcionamento dos motores;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Convencional:: simulaá∆o.;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;O Hidrogànio Ç um combust°vel muito utilizado em foguetes espaciais:: e a reaá∆o qu°mica que ocorre no interior dos motores Ç a eletr¢lise da †gua:: que ocorre pela reaá∆o do hidrogànio com o oxigànio.;CVV Aveiro - AM 1a:: CVV Aveiro - AM 1b:: CVV Aveiro - AM 1c:: CVV Aveiro - AM 1d:: CVV Aveiro - AM 1e.
+failed on item 30
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 9
+ enclosure : 
+ Values string: 33;Foguete de Hidrogànio;F†brica - Centro Ciància Viva de Aveiro;Foguete de hidrogànio e seu funcionamento;Astronomia:: qu°mica;Modelo de foguete com bot‰es para acionamento da reaá∆o que ocorre em um motor de foguete de hidrogànio;Contemplaá∆o e acionamento da reaá∆o.;Foguete espacial e reaá∆o que ocorre para funcionamento dos motores;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Convencional:: simulaá∆o.;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;Alguns foguetes:: possuem como modo de propuls∆o pela reaá∆o de eletr¢lise entre o hidrogànio e o oxigànio:: gerando uma reaá∆o altamente energÇtica.;CVV Aveiro - AM 1a:: CVV Aveiro - AM 1b:: CVV Aveiro - AM 1c:: CVV Aveiro - AM 1d:: CVV Aveiro - AM 1e.
+failed on item 31
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 11
+ enclosure : 
+ Values string: 34;Ilha de luz;F†brica - Centro Ciància Viva de Aveiro;A formaá∆o de imagens em entes e no olho humano;Biologia:: f°sica;Acionamento de um bot∆o que inicia a propagaá∆o de um feixe de luz que percorre um caminho:: passando por diferentes tipos de lentes.;Contemplaá∆o e acionamento do bot∆o.;A formaá∆o de imagens no olho humano;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Convencional;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;As lentes:: que podem ser planas:: cìncavas ou convexas tem a funá∆o de convergir ou divergir um feixe de luz incidente:: formando uma imagem em uma regi∆o chamada foco. A formaá∆o de imagens pelo olho humano se d† dessa forma.;CVV Aveiro - AM 2a:: CVV Aveiro - AM 2b:: CVV Aveiro - AM 2c:: CVV Aveiro - AM 2d:: CVV Aveiro - AM 2e:: CVV Aveiro - AM 2f.
+failed on item 32
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 3
+ enclosure : 
+ Values string: 35;Planeta Terra;Planet†rio do Porto;O Planeta Terra;Geografia;Modelo de um planeta Terra (de cabeáa para baixo) exposto sobre o ch∆o.;Contemplaá∆o;Planeta Terra;Objeto;MegamÇtrica;Concreto(3D);Modelo est†tico;Ornamental;Convencional;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;N∆o definida;CVV Plan Porto - AM 1a:: CVV Plan Porto - AM 1b:: CVV Plan Porto - AM 1c.
+failed on item 33
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 1
+ enclosure : 
+ Values string: 36;Astros do Sistema Solar;Planet†rio do Porto;Os astros do Sistema Solar e suas dimens‰es;Astronomia;Modelos de planetas afixados no teto com um painel que traz comparaá‰es sobre a dimens∆o dos astros e do planet†rio;Contemplaá∆o e leitura;Planetas do Sistema Solar;Objeto;MegamÇtrica;Concreto(3D);Modelo est†tico;Ornamental;Convencional;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;N∆o definida;N∆o definida
+failed on item 34
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 3
+ enclosure : 
+ Values string: 37;Sistema Solar;Planet†rio do Porto;Sistema Solar;Astronomia;Modelo de um sol com os planetas do sistema Solar afixados em sua ¢rbita sobre uma bancada;Contemplaá∆o;Sol e planetas do Sistema Solar;Objeto;MegamÇtrica;Concreto(3D);Modelo est†tico;Ornamental;Convencional;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;N∆o definida;CVV Plan Lisboa - AM 3a:: CVV Plan Lisboa - AM 3b:: CVV Plan Lisboa - AM 3c.
+failed on item 35
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 22
+ enclosure : 
+ Values string: 39;Explorando os Mares;Centro Ciància Viva de Lagos;Submarino;Engenharia;Modelo de um submarino aberto:: com algumas regi‰es em destaque:: como o painel para navegaá∆o e perisc¢pio;Contemplaá∆o e acionamento de alavancas que simulam o funcionamento de um submarino;Submarino;Objeto;MÇtrica;Concreto(3D);Modelo est†tico;Ornamental;Convencional;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;N∆o definida;CVV Lagos - AM 2a:: CVV Lagos - AM 2b:: CVV Lagos - AM 2c:: CVV Lagos - AM 2d:: CVV Lagos - AM 2e:: CVV Lagos - AM 2f:: CVV Lagos - AM 2g:: CVV Lagos - AM 2h:: CVV Lagos - AM 2i:: CVV Lagos - AM 2j:: CVV Lagos - AM 2k:: CVV Lagos - AM 2l:: CVV Lagos - AM 2m:: CVV Lagos - AM 2n:: CVV Lagos - AM 2o:: CVV Lagos - AM 2p:: CVV Lagos - AM 2q:: CVV Lagos - AM 2r:: CVV Lagos - AM 2s:: CVV Lagos - AM 2t.
+failed on item 37
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 1
+ enclosure : 
+ Values string: 40;Teste;Teste;N∆o definido;N∆o definida;N∆o definida;N∆o definido;N∆o definida;N∆o definido;N∆o definido;N∆o definido;N∆o definido;Ornamental;N∆o definida;N∆o definido;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;N∆o definida;Teste
+failed on item 38
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 14
+ enclosure : 
+ Values string: 41;Superf°cie Lunar;Curtir Ciància - Centro Ciància Viva de Guimar∆es;A superf°cie lunar e a exploraá∆o;Astronomia;"Bancada que simula a superf°cie lunar com um ve°culo espacial sobre ela. Pr¢ximo:: h† uma espÇcie de joystick para controle do ve°culo e ""exploraá∆o da lua"".";Contemplaá∆o e controle do joystick;Superf°cie da lua e ve°culo de exploraá∆o lunar.;Objeto;MegamÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Convencional;Sim;Painel para simular a vis∆o de alguÇm que controla o ve°culo de exploraá∆o lunar;O painel foi colocado acima do joystick:: para que o visitante tenha vis∆o do ve°culo que est† controlando;N∆o definida;CVV Guimar∆es - AM 1a:: CVV Guimar∆es - AM 1b:: CVV Guimar∆es - AM 1c:: CVV Guimar∆es - AM 1d:: CVV Guimar∆es - AM 1e:: CVV Guimar∆es - AM 1f:: CVV Guimar∆es - AM 1g:: CVV Guimar∆es - AM 1h:: CVV Guimar∆es - AM 1i:: CVV Guimar∆es - AM 1j:: CVV Guimar∆es - AM 1k:: CVV Guimar∆es - AM 1l.
+failed on item 39
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 10
+ enclosure : 
+ Values string: 42;Comunicaá‰es Espaciais;Curtir Ciància - Centro Ciància Viva de Guimar∆es;Comunicaá∆o Espacial;Astronomia;Cabines com painÇis que simulam uma pessoa no espaáo e outra pessoa na Terra:: de modo a demonstrar como se d† essa comunicaá∆o;Comunicaá∆o com a pessoa que est† em outra cabine;O sistema de comunicaá∆o entres estaá‰es espaciais.;Objeto;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;RÇplica:: simulaá∆o.;Sim;Painel que simula o sistema de comunicaá∆o de astronautas.;O painel foi colocado em cabines para que os visitantes pudessem se comunicar entre si;N∆o definida;CVV Guimar∆es - AM 2a:: CVV Guimar∆es - AM 2b:: CVV Guimar∆es - AM 2c:: CVV Guimar∆es - AM 2d:: CVV Guimar∆es - AM 2e:: CVV Guimar∆es - AM 2f:: CVV Guimar∆es - AM 2g:: CVV Guimar∆es - AM 2h.
+failed on item 40
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 7
+ enclosure : 
+ Values string: 43;Couros;Curtir Ciància - Centro Ciància Viva de Guimar∆es;Couros e Curtumes;Ind£stria Tàxtil;Tanques que representam uma das etapas do processo de curtir o couro e um painel digital ao lado com informaá‰es sobre o couro de animais.;Contemplaá∆o e leitura;Tanques onde se faz a lavagem do couro;Objeto;MÇtrica;Concreto(3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Convencional;Sim;Painel informativo;O painel foi colocado ao lado dos modelos dos tanques e possui informaá‰es sobre o couro animal e o processo de obtená∆o do mesmo.;N∆o definida;CVV Guimar∆es - AM 3a:: CVV Guimar∆es - AM 3b:: CVV Guimar∆es - AM 3c:: CVV Guimar∆es - AM 3d:: CVV Guimar∆es - AM 3e:: CVV Guimar∆es - AM 3f:: CVV Guimar∆es - AM 3g.
+failed on item 41
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 11
+ enclosure : 
+ Values string: 44;Pontes;Curtir Ciància - Centro Ciància Viva de Guimar∆es;Pontes e foráas atuantes;F°sica;Representaá∆o de uma ponte que permite a passagem dos visitantes e painel digital que mostra as foráas atuantes na ponte durante a passagem de pessoas;Andar sobre a ponte e leitura do painel;Pontes;Objeto;MÇtrica;Concreto(3D);Modelo est†tico;Pedag¢gica ou de divulgaá∆o;Convencional;Sim;Painel digital que mostra as foráas atuantes em uma ponte durante a aplicaá∆o de um esforáo sobre a mesma;O painel digital mostra:: em tempo real:: as foráas atuantes em uma ponte durante a aplicaá∆o de um esforáo sobre a mesma;N∆o definida;CVV Guimar∆es - AM 4a:: CVV Guimar∆es - AM 4b:: CVV Guimar∆es - AM 4c:: CVV Guimar∆es - AM 4d:: CVV Guimar∆es - AM 4e:: CVV Guimar∆es - AM 4f:: CVV Guimar∆es - AM 4g:: CVV Guimar∆es - AM 4i:: CVV Guimar∆es - AM 4j.
+failed on item 42
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 10
+ enclosure : 
+ Values string: 45;T£nel Interativo;Curtir Ciància - Centro Ciància Viva de Guimar∆es;Nave Espacial;Astronomia;T£nel com painÇis digitais em volta que simula a vis∆o que se teria do Sistema Solar durante uma viagem espacial;Contemplaá∆o e leitura;Sistema Solar;Objeto;GigamÇtrica;Visual(2D ou pseudo3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Pict¢rica;Sim;PainÇis digitais em volta do t£nel;Os painÇis foram colocados em volta do t£nel de modo a simular uma viagem ao espaáo. Nesses painÇis:: h† representado diversos componentes do sistema solar:: como planetas e asteroides.;N∆o definida;CVV Guimar∆es - AM 5a:: CVV Guimar∆es - AM 5b:: CVV Guimar∆es - AM 5c:: CVV Guimar∆es - AM 5d:: CVV Guimar∆es - AM 5e:: CVV Guimar∆es - AM 5f:: CVV Guimar∆es - AM 5g:: CVV Guimar∆es - AM 5h.
+failed on item 43
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 10
+ enclosure : 
+ Values string: 46;Ciclo da †gua;Centro Ciància Viva de Tavira;O ciclo da †gua e produá∆o de energia elÇtrica;Geografia;"Um modelo de uma propriedade foi colocado de modo que ao acionar um bot∆o inicia-se o ciclo da †gua nesse local:: alÇm da escolha de ""dia"" ou ""noite"" para demonstrar o funcionamento de um painel fotovoltaico.";Contemplaá∆o e acionamento do bot∆o.;Fazenda:: Ciclo da †gua e produá∆o de energia por painel fotovoltaico.;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Maquete:: simulaá∆o;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;N∆o definida;CVV Tavira - AM 1a:: CVV Tavira - AM 1b:: CVV Tavira - AM 1c:: CVV Tavira - AM 1d:: CVV Tavira - AM 1e:: CVV Tavira - AM 1f:: CVV Tavira - AM 1g.
+failed on item 44
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 9
+ enclosure : 
+ Values string: 48;Lená¢is Fre†ticos;Centro Ciància Viva de Tavira;Formaá∆o de Lená¢is Fre†ticos;Geografia;Caixa que representa as diversas camadas de um solo:: com composiá‰es diferentes a cada camada.;Uso do regador para simular a chuva;Chuva e formaá∆o de lená¢is fre†ticos;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Simulaá∆o;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;N∆o definida;CVV Tavira - AM 3a:: CVV Tavira - AM 3b:: CVV Tavira - AM 3c:: CVV Tavira - AM 3d:: CVV Tavira - AM 3e:: CVV Tavira - AM 3f:: CVV Tavira - AM 3g:: CVV Tavira - AM 3h.
+failed on item 46
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 11
+ enclosure : 
+ Values string: 49;Rio DinÉmico;Centro Ciància Viva de Tavira;Rio e a formaá∆o geol¢gica local;Geografia;Bancada em que h† sedimentos e †gua para representaá∆o de um rio.;Alteraá∆o das caracter°sticas do rio:: de modo a formar eros∆o:: sedimentaá∆o e transporte.;Rio e processos erosivos;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Maquete:: simulaá∆o;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;N∆o definida;CVV Tavira - AM 4a:: CVV Tavira - AM 4b:: CVV Tavira - AM 4c:: CVV Tavira - AM 4d:: CVV Tavira - AM 4e:: CVV Tavira - AM 4f:: CVV Tavira - AM 4g:: CVV Tavira - AM 4h.
+failed on item 47
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 13
+ enclosure : 
+ Values string: 50;Fontes de Energia;Centro Ciància Viva de Tavira;Geraá∆o de energia;Geografia;Bicicletas colocadas em frente a modelos de diferentes tipos de geraá∆o de energia (e¢lica:: ondas do mar e hidrelÇtricas) de modo acionar o ciclo e a geraá∆o de energia;Pedalar a bicicleta para iniciar o processo e contemplaá∆o;Diferentes modos de geraá∆o de energia (e¢lica:: ondas do mar e hidrelÇtricas).;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Simulaá∆o;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;N∆o definida;CVV Tavira - AM 5a:: CVV Tavira - AM 5b:: CVV Tavira - AM 5c:: CVV Tavira - AM 5d:: CVV Tavira - AM 5e:: CVV Tavira - AM 5f:: CVV Tavira - AM 5g:: CVV Tavira - AM 5h:: CVV Tavira - AM 5i:: CVV Tavira - AM 5j:: CVV Tavira - AM 5k.
+failed on item 48
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 5
+ enclosure : 
+ Values string: 51;Como se Forma um Tornado?;Centro Ciància Viva de Braganáa;Formaá∆o de um Tornado;Geografia;Tubo transparente com bot∆o para acionamento do processo que simula a formaá∆o de um tornado;Contemplaá∆o e acionamento do bot∆o.;Tornado;Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Simulaá∆o;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;N∆o definida;CVV Braganáa - AM 1a:: CVV Braganáa - AM 1b:: CVV Braganáa - AM 1c:: CVV Braganáa - AM 1d:: CVV Braganáa - AM 1e.
+failed on item 49
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 6
+ enclosure : 
+ Values string: 52;Foguete de Hidrogànio (2);Centro Ciància Viva de Braganáa;Foguete de hidrogànio e reaá∆o de eletr¢lise;Astronomia:: qu°mica;Tubo transparente com bot∆o para acionamento da reaá∆o de eletr¢lise da †gua:: princ°pio de funcionamento do foguete a hidrogànio.;Contemplaá∆o e acionamento do bot∆o.;Acionamento dos motores de um foguete a hidrogànio e foguete a hidrgànio;Objeto & Processo;MÇtrica;Concreto(3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Convencional:: simulaá∆o.;N∆o;Vocà disse que n∆o tinha TD integrada;Vocà disse que n∆o tinha TD integrada;N∆o definida;CVV Braganáa - AM 2a:: CVV Braganáa - AM 2b:: CVV Braganáa - AM 2c.
+failed on item 50
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 11
+ enclosure : 
+ Values string: 53;Abalos S°smicos;Centro Ciància Viva de Braganáa;Como se d† um abalo s°smico;Geografia;Cubo sobre uma mesa em que o visitante bate no mesmo e provoca um abalo s°smico:: que Ç diferente dependendo da foráa aplicada e da regi∆o atingida.;Contemplaá∆o:: leitura e desencadeamento do abalo ao bater no cubo.;Abalos S°smicos;Processo;MegamÇtrica;Visual(2D ou pseudo3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Simulaá∆o;Sim;Painel com informaá‰es sobre como se d† os abalos s°smicos e os impactos sentidos;O painel foi colocado de modo a passar informaá‰es da magnitude do abalo (que varia com a foráa aplicada no cubo pelo visitante) e o tipo de onda formada (varia de acordo com a face atingida pelo visitante).;N∆o definida;CVV Braganáa - AM 3a:: CVV Braganáa - AM 3b:: CVV Braganáa - AM 3c:: CVV Braganáa - AM 3d:: CVV Braganáa - AM 3e:: CVV Braganáa - AM 3f:: CVV Braganáa - AM 3g:: CVV Braganáa - AM 3h:: CVV Braganáa - AM 3i.
+failed on item 51
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 30
+ enclosure : 
+ Values string: 54;Do µtomo ao Universo;Centro Ciància Viva de Braganáa;Formaá∆o da Vida e Planetas do Sistema Solar;Astronomia:: biologia;Painel informativo sobre a origem da vida:: o magnetismo presente na Terra:: por exemplo:: e o Sistema Solar. AlÇm disso:: h† cabines em que o visitante comanda aá‰es atravÇs de movimentos com os pÇs;Contemplaá∆o:: leitura e exploraá∆o dos temas realizando comandos pelos movimentos dos pÇs;µtomos:: a formaá∆o de compostos orgÉnicos:: objetos atra°dos ou n∆o por magnetismo e planetas do Sistema Solar;Objeto & Processo;N∆o definido;Visual(2D ou pseudo3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Pict¢rica:: simulaá∆o;Sim;Projeá∆o no ch∆o das cabines;As projeá‰es foram colocadas de modo que o visitante interaja com as mesmas:: escolhendo:: com os pÇs:: qual Planeta do Sistema Solar quer conhecer melhor:: ou unir †tomos de maneira a formar compostos orgÉnicos:: por exemplo.;N∆o definida;CVV Braganáa - AM 4a:: CVV Braganáa - AM 4b:: CVV Braganáa - AM 4c:: CVV Braganáa - AM 4d:: CVV Braganáa - AM 4e:: CVV Braganáa - AM 4f:: CVV Braganáa - AM 4g:: CVV Braganáa - AM 4h:: CVV Braganáa - AM 4i:: CVV Braganáa - AM 4j:: CVV Braganáa - AM 4k:: CVV Braganáa - AM 4l:: CVV Braganáa - AM 4m:: CVV Braganáa - AM 4n:: CVV Braganáa - AM 4o:: CVV Braganáa - AM 4p.
+failed on item 52
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 11
+ enclosure : 
+ Values string: 55;A Energia do vento;Centro Ciància Viva de Braganáa;Geraá∆o de energia e¢lica;Geografia;Representaá∆o de um bolo de anivers†rio com cata-ventos ao redor e um painel ao fundo mostrando informaá‰es sobre um sistema de geraá∆o de energia e¢lica;Contemplaá∆o:: leitura e funcionamento dos cata-ventos:: soprando-os;Geraá∆o de energia e¢lica;Objeto & Processo;MÇtrica;Visual(2D ou pseudo3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Pict¢rica:: simulaá∆o;Sim;Painel informativo;O painel foi colocado de modo que a medida que os visitantes sopram os cata-ventos:: h† uma contagem de energia fornecida e potància gerada:: contendo tambÇm um desenho de um gerador de energia e¢lica e suas partes internas;N∆o definida;CVV Braganáa - AM 6a:: CVV Braganáa - AM 6b:: CVV Braganáa - AM 6c:: CVV Braganáa - AM 6d:: CVV Braganáa - AM 6e:: CVV Braganáa - AM 6f.
+failed on item 53
+ Mismatch count headers and row columns 
+ Headers count: 18
+ Values count: 14
+ enclosure : 
+ Values string: 56;O Ambiente e a Qualidade de Vida;Centro Ciància Viva de Braganáa;A distribuiá∆o de energia elÇtrica de uma casa;Geografia;Representaá∆o de uma casa e seu circuito de distribuiá∆o de energia elÇtrica:: com bot‰es para ligar e desligar a energia em diversos pontos a casa;Contemplaá∆o e acionamento dos bot‰es;Casa e distribuiá∆o de energia elÇtrica pela mesma;Objeto & Processo;MÇtrica;Visual(2D ou pseudo3D);Modelo dinÉmico;Pedag¢gica ou de divulgaá∆o;Pict¢rica:: simulaá∆o;Sim;Painel com o desenho de uma casa e de energia sendo distrubu°da;O painel foi colocado de modo a representar ambientes de uma casa:: e as luzes podem ser ligadas os desligadas devido ao acionamento de bot‰es pelos visitantes;N∆o definida;CVV Braganáa - AM 7a:: CVV Braganáa - AM 7b:: CVV Braganáa - AM 7c:: CVV Braganáa - AM 7d:: CVV Braganáa - AM 7e:: CVV Braganáa - AM 7f:: CVV Braganáa - AM 7g:: CVV Braganáa - AM 7h:: CVV Braganáa - AM 7i:: CVV Braganáa - AM 7j:: CVV Braganáa - AM 7k.
+failed on item 54
