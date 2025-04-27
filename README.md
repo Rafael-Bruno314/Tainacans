@@ -33,6 +33,7 @@ Importe os conjuntos de dados através da funcionalidade de importação do Tain
 📜 Licença
 Distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
+
 🎯 Objetivo
 Organizar e disponibilizar registros fotográficos de exposições para estudos acadêmicos e desenvolvimento de projetos relacionados à curadoria digital.
 
